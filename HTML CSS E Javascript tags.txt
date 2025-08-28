@@ -1,0 +1,12 @@
+<form action ="#" method ="">
+
+</form> name =""
+
+<input type = "text"
+got 	      "email"
+	      "data"
+	      "tel"
+              "required"		
+post
+<label nome </label>
+name = "nome"
